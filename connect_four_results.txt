@@ -1,0 +1,6 @@
+2023-08-23 01:51:31 | fire vs water | fire wins | Time: 3.09 seconds
+2023-08-23 01:54:48 | hot vs cold | hot wins | Time: 148.30 seconds
+2023-08-23 01:56:51 | Alice vs Bob | Alice wins | Time: 73.80 seconds
+2023-08-23 01:58:15 | Play vs top | Play wins | Time: 64.21 seconds
+2023-08-23 02:02:11 | koko vs lol | Tie | Time: 72.46 seconds
+2023-08-24 00:10:32 | Hoshi vs Chertam | Hoshi wins | Time: 5.93 seconds
