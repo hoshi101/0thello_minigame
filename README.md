@@ -7,4 +7,4 @@ The rules of Othello are simple: players take turns placing discs, and whenever 
 
 The game ends when no more moves are possible, and the player with the most discs wins. After the game, results are displayed as Win, Lose, or Draw, and the match history is saved with the date, time, and total game duration.
 
-🎮!Have fun!🕹️
+🎮!Have fun!🕹️(This project was completed on August 23, 2023)
